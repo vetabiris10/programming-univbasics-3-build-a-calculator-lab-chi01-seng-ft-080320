@@ -20,5 +20,5 @@ num1%num2
 end
 
 def square_root(num)
-   "Math.squrt(81)"
+  puts "Math.sqrt(81)"
 end
